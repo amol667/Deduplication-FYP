@@ -1,0 +1,20 @@
+
+Successfully Logged in on date 05-05-2016 and time 21:17:05
+
+User has uploaded file (shanu_rabbit.jpg) on date 05-05-2016 and time 21:17:45
+
+Successfully Logged out on date 05-05-2016 and time 21:18:45
+
+Successfully Logged in on date 05-05-2016 and time 21:36:21
+
+Successfully Logged in on date 06-05-2016 and time 15:15:33
+
+User has seen the profile on date  06-05-2016 and time 15:17:22
+
+Successfully Logged out on date 06-05-2016 and time 15:17:36
+
+Successfully Logged in on date 06-05-2016 and time 16:33:53
+
+User has seen the profile on date  06-05-2016 and time 16:34:00
+
+Successfully Logged out on date 06-05-2016 and time 16:34:08
